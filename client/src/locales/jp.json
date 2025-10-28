@@ -1,0 +1,88 @@
+{
+  "navigation": {
+    "home": "ホーム",
+    "products": "商品",
+    "about": "会社概要",
+    "contact": "お問い合わせ"
+  },
+  "cart": {
+    "title": "ショッピングカート",
+    "empty": "カートは空です",
+    "emptyMessage": "商品を追加してショッピングを始めましょう。",
+    "total": "合計",
+    "checkout": "レジに進む",
+    "remove": "削除",
+    "decrease": "数量を減らす",
+    "increase": "数量を増やす",
+    "items": "アイテム"
+  },
+  "product": {
+    "addToCart": "カートに追加",
+    "price": "価格",
+    "description": "商品説明",
+    "features": "特徴",
+    "inStock": "在庫あり",
+    "outOfStock": "在庫切れ"
+  },
+  "home": {
+    "hero": {
+      "title": "当店へようこそ",
+      "subtitle": "プレミアム品質の素晴らしい商品を発見しましょう",
+      "cta": "今すぐ購入"
+    },
+    "featured": {
+      "title": "おすすめ商品",
+      "subtitle": "あなたのために厳選された商品"
+    },
+    "welcome": {
+      "title": "ようこそ",
+      "shop": "E-ストア"
+    }
+  },
+  "products": {
+    "title": "商品一覧",
+    "subtitle": "完全なコレクションを閲覧",
+    "filter": {
+      "all": "すべて",
+      "electronics": "電子機器",
+      "clothing": "衣類",
+      "books": "書籍"
+    },
+    "sort": {
+      "priceLow": "価格: 安い順",
+      "priceHigh": "価格: 高い順",
+      "name": "名前: A-Z順"
+    }
+  },
+  "about": {
+    "title": "会社概要",
+    "subtitle": "当社について詳しく知る",
+    "mission": "私たちの使命",
+    "vision": "私たちのビジョン",
+    "values": "私たちの価値観"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "お気軽にお問い合わせください",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "message": "メッセージ",
+      "send": "メッセージを送信"
+    },
+    "info": {
+      "address": "住所",
+      "phone": "電話番号",
+      "email": "メールアドレス"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 当店。全著作権所有。",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "currency": {
+    "usd": "USD",
+    "jpy": "JPY"
+  }
+} 

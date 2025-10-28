@@ -1,0 +1,113 @@
+{
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyMessage": "Start shopping to add items to your cart.",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "decrease": "Decrease quantity",
+    "increase": "Increase quantity",
+    "items": "items"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "price": "Price",
+    "description": "Description",
+    "features": "Features",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "home": {
+    "title": "Welcome to E-Store",
+    "subtitle": "Discover amazing products with exceptional quality and service",
+    "shopNow": "Shop Now",
+    "testAddToCart": "Test Add to Cart",
+    "hero": {
+      "title": "Welcome to Our Store",
+      "subtitle": "Discover amazing products with premium quality",
+      "cta": "Shop Now"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Handpicked items just for you"
+    },
+    "welcome": {
+      "title": "Welcome to",
+      "shop": "E-Store"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "fastShipping": {
+        "title": "Fast Shipping",
+        "description": "Get your products delivered quickly and safely"
+      },
+      "securePayment": {
+        "title": "Secure Payment",
+        "description": "Your payments are protected with industry-standard security"
+      },
+      "qualityProducts": {
+        "title": "Quality Products",
+        "description": "We only sell products that meet our high quality standards"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Shopping?",
+      "subtitle": "Join thousands of satisfied customers who trust us for their shopping needs.",
+      "button": "Browse Products"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Browse our complete collection",
+    "filter": {
+      "all": "All",
+      "electronics": "Electronics",
+      "clothing": "Clothing",
+      "books": "Books"
+    },
+    "sort": {
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "name": "Name: A to Z"
+    },
+    "search": "Search products..."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn more about our company",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "values": "Our Values"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Our Store. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "currency": {
+    "usd": "USD",
+    "jpy": "JPY"
+  }
+} 
