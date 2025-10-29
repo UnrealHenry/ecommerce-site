@@ -15,7 +15,8 @@ const CheckoutSuccess: React.FC = () => {
       }
 
       try {
-        const response = await fetch(`http://localhost:3002/api/checkout/verify/${sessionId}`);
+        const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:3002/api';
+        const response = await fetch(`${apiUrl}/checkout/verify/${sessionId}`);
         const data = await response.json();
         setSessionData(data);
       } catch (error) {

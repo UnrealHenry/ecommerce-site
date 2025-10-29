@@ -19,7 +19,8 @@ const CheckoutButton: React.FC = () => {
 
     try {
       // Check if server is running
-      const response = await fetch('http://localhost:3002/api/checkout/create-session', {
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:3002/api';
+      const response = await fetch(`${apiUrl}/checkout/create-session`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
